@@ -56,6 +56,9 @@ diagnosticMode:
   args:
     - infinity
 
+deployment:
+  annotations: []
+
 ## @section Ingress parameters
 ingress:
   ## @param ingress.enabled Enable the creation of the ingress resource
